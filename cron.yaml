@@ -1,0 +1,5 @@
+cron:
+- description: daily update of weather data
+  url: /tasks/update/
+  schedule: every 1 hours from 7:00 to 19:00
+  timezone: Europe/Vilnius
