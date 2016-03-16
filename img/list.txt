@@ -1,0 +1,7 @@
+giedra.png
+mazai_deb.png
+deb_prag.png
+debesuota.png
+deb_prag_naktis.png
+giedra_naktis.png
+mazai_deb_naktis.png
