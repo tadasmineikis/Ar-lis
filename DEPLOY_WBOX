@@ -1,1 +1,2 @@
-~appcfg.py update ~/
+# /home/tadas/install/google_appengine/
+$1/appcfg.py update $PWD

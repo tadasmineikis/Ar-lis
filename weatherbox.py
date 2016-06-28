@@ -66,8 +66,8 @@ class MainPage(webapp2.RequestHandler):
             ax[1].set_xticklabels(XTICK_LABEL)
             ax[1].tick_params(axis='both', which='major', labelsize=13)
             ax[0].tick_params(axis='both', which='major', labelsize=13)
-            ax[0].axhline(0, linestyle='--', color='k', linewidth=3, alpha=0.5)
-            ax[1].axhline(0, linestyle='--', color='k', linewidth=3, alpha=0.5)
+            #ax[0].axhline(0, linestyle='--', color='k', linewidth=3, alpha=0.5)
+            #ax[1].axhline(0, linestyle='--', color='k', linewidth=3, alpha=0.5)
 	    ax[0].grid(b=True, which='major', color='k', linestyle=':')
 	    ax[1].grid(b=True, which='major', color='k', linestyle=':')
 
